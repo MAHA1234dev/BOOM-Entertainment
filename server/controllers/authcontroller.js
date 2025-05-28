@@ -1,4 +1,3 @@
-// server/controllers/authController.js
 const User = require('../models/User');
 
 exports.registerUser = async (req, res) => {
